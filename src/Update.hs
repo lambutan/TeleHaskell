@@ -4,7 +4,6 @@ module Update where
 
 import Aux_Types
 import API_Types
-import API_Types_JSON
 import Data.Aeson
 import Data.Aeson.Types
 import Data.Text
