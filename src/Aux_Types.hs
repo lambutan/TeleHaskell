@@ -10,7 +10,6 @@ apiTelegram = "https://api.telegram.org/bot"
 
 newtype Bot = Bot {token :: String} deriving Show
 
-otterBot = Bot "229877570:AAGqXF9mKsTXEl35gf-WbjaBs7dUPhylU08" 
 
 
 data ChatId = IsInt Integer
